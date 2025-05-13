@@ -2757,7 +2757,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 darkwake=0 igfxonln=1 -igfxblr -igfxbls -igfxbrs -lilubeta -alcbeta</string>
+				<string>darkwake=0 igfxonln=1 -igfxblr -igfxbls -igfxbrs -igfxblt -lilubeta -alcbeta</string>
 				<key>csr-active-config</key>
 				<data>
 				QwAAAA==
