@@ -161,7 +161,7 @@ EFI
 │   │   ├── SMCBatteryManager.kext
 │   │   ├── SMCProcessor.kext
 │   │   ├── SMCSuperIO.kext
-│   │   ├── USBMap.kext
+│   │   ├── USBMap.kext (I had to remap the usb ports, I'm not going to share it here. Use USBMap tool to map your USB ports. CHECK ISSUES, JUST README IS NOT ENOUGH!!!)
 │   │   ├── VirtualSMC.kext
 │   │   ├── VoodooInput.kext
 │   │   ├── VoodooPS2Controller.kext
